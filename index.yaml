@@ -3,28 +3,7 @@ entries:
   hive-metastore:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2021-11-25T16:41:49.493551+11:00"
-    description: The Apache Hive ™ data warehouse software facilitates reading, writing,
-      and managing large datasets residing in distributed storage using SQL. Structure
-      can be projected onto data already in storage. A command line tool and JDBC
-      driver are provided to connect users to Hive.
-    digest: f94d9904eb8d86ed3435e46f9c551125af9eaa55f46e7182b2f7c57b0767377e
-    home: https://hive.apache.org/
-    icon: https://hive.apache.org/images/hive_logo_medium.jpg
-    maintainers:
-    - email: meloyang@amazon.com
-      name: meloyang
-    name: hive-metastore
-    sources:
-    - https://github.com/apache/hive
-    - https://github.com/gradiant/charts
-    - https://github.com/amommendes/helm-hive-metastore
-    urls:
-    - https://melodyyangaws.github.io/hive-metastore-chart/hive-metastore-1.0.0.tgz
-    version: 1.0.0
-  - apiVersion: v1
-    appVersion: 3.0.0
-    created: "2021-11-25T16:41:49.494642+11:00"
+    created: "2021-11-25T17:18:34.066202+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -42,10 +21,31 @@ entries:
     - https://github.com/amommendes/helm-hive-metastore
     urls:
     - https://melodyyangaws.github.io/hive-metastore-chart/hive-metastore-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 3.0.0
+    created: "2021-11-25T17:14:53.148365+11:00"
+    description: The Apache Hive ™ data warehouse software facilitates reading, writing,
+      and managing large datasets residing in distributed storage using SQL. Structure
+      can be projected onto data already in storage. A command line tool and JDBC
+      driver are provided to connect users to Hive.
+    digest: 07ef77a7dd3cfa73d23e0aa33af8b4f95d809730780030d071c9aa93bfa3f463
+    home: https://hive.apache.org/
+    icon: https://hive.apache.org/images/hive_logo_medium.jpg
+    maintainers:
+    - email: meloyang@amazon.com
+      name: meloyang
+    name: hive-metastore
+    sources:
+    - https://github.com/apache/hive
+    - https://github.com/gradiant/charts
+    - https://github.com/amommendes/helm-hive-metastore
+    urls:
+    - https://melodyyangaws.github.io/hive-metastore-chart/hive-metastore-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2021-11-25T16:41:49.491634+11:00"
+    created: "2021-11-25T17:14:53.145441+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -64,4 +64,4 @@ entries:
     urls:
     - https://melodyyangaws.github.io/hive-metastore-chart/hive-metastore-0.1.1.tgz
     version: 0.1.1
-generated: "2021-11-25T16:41:49.475923+11:00"
+generated: "2021-11-25T17:14:53.131367+11:00"
