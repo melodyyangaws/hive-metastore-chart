@@ -3,12 +3,12 @@ entries:
   hive-metastore:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2021-12-24T23:02:54.361684+11:00"
+    created: "2021-12-27T04:26:01.368633+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
       driver are provided to connect users to Hive.
-    digest: c1f955ef0df1f7fc5ae9a87bc0b3d8f9d0bb83a963acd04b001b26dc3647b718
+    digest: d5ab54359b83ba7ccf37781421e2f47d0e991f53aa68bc23661d69ca23c03566
     home: https://hive.apache.org/
     icon: https://hive.apache.org/images/hive_logo_medium.jpg
     maintainers:
@@ -24,7 +24,7 @@ entries:
     version: 1.2.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2021-12-24T23:02:54.360594+11:00"
+    created: "2021-12-27T04:26:01.367693+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -45,7 +45,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2021-12-24T23:02:54.359306+11:00"
+    created: "2021-12-27T04:26:01.365772+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -66,7 +66,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2021-12-24T23:02:54.35767+11:00"
+    created: "2021-12-27T04:26:01.363205+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -85,4 +85,4 @@ entries:
     urls:
     - https://melodyyangaws.github.io/hive-metastore-chart/hive-metastore-0.1.1.tgz
     version: 0.1.1
-generated: "2021-12-24T23:02:54.343827+11:00"
+generated: "2021-12-27T04:26:01.344477+11:00"
