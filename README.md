@@ -3,7 +3,7 @@
 This Hive chart (package) encapsulates all configurations and components needed to deploy a Hive Metastore service/Thrift service in a k8s cluster.
 
 ## Install the Chart
-Populate the [values file](values.yaml)
+Populate the [values file](https://github.com/aws-samples/hive-emr-on-eks/blob/main/hive-metastore-chart/values.yaml)
 ```bash
 helm repo add hive-metastore https://melodyyangaws.github.io/hive-metastore-chart 
 helm install hive hive-metastore/hive-metastore -f values.yaml --namespace=emr --debug
@@ -20,7 +20,7 @@ The resources used in the this chart are defined in yaml files inside [`/templat
 
 ## Customize the Helm Chart
 
-Modify the chart resources based on your need. Populate the values.yaml with your value. 
+Modify the chart resources based on your need. Populate the [values.yaml](https://github.com/aws-samples/hive-emr-on-eks/blob/main/hive-metastore-chart/values.yaml) with your value. 
 Test locally:
 
 ```bash
