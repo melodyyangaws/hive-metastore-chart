@@ -3,7 +3,28 @@ entries:
   hive-metastore:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2022-04-03T23:06:49.727293+10:00"
+    created: "2022-10-22T22:14:33.795748+11:00"
+    description: The Apache Hive ™ data warehouse software facilitates reading, writing,
+      and managing large datasets residing in distributed storage using SQL. Structure
+      can be projected onto data already in storage. A command line tool and JDBC
+      driver are provided to connect users to Hive.
+    digest: 91e5dd307c2036f11a0231e49d4f5d8d7a91b2e32e10ec2b1a855c21612166f5
+    home: https://hive.apache.org/
+    icon: https://hive.apache.org/images/hive_logo_medium.jpg
+    maintainers:
+    - email: meloyang@amazon.com
+      name: meloyang
+    name: hive-metastore
+    sources:
+    - https://github.com/apache/hive
+    - https://github.com/gradiant/charts
+    - https://github.com/amommendes/helm-hive-metastore
+    urls:
+    - https://melodyyangaws.github.io/hive-metastore-chart/hive-metastore-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v1
+    appVersion: 3.0.0
+    created: "2022-10-22T22:14:33.795191+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -24,7 +45,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2022-04-03T23:06:49.726313+10:00"
+    created: "2022-10-22T22:14:33.793922+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -45,7 +66,7 @@ entries:
     version: 1.2.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2022-04-03T23:06:49.723845+10:00"
+    created: "2022-10-22T22:14:33.792545+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -66,7 +87,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2022-04-03T23:06:49.721367+10:00"
+    created: "2022-10-22T22:14:33.791067+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -87,7 +108,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2022-04-03T23:06:49.71902+10:00"
+    created: "2022-10-22T22:14:33.789301+11:00"
     description: The Apache Hive ™ data warehouse software facilitates reading, writing,
       and managing large datasets residing in distributed storage using SQL. Structure
       can be projected onto data already in storage. A command line tool and JDBC
@@ -106,4 +127,4 @@ entries:
     urls:
     - https://melodyyangaws.github.io/hive-metastore-chart/hive-metastore-0.1.1.tgz
     version: 0.1.1
-generated: "2022-04-03T23:06:49.703827+10:00"
+generated: "2022-10-22T22:14:33.77345+11:00"
